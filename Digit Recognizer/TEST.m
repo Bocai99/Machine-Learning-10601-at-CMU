@@ -1,0 +1,1 @@
+load mnist_all
